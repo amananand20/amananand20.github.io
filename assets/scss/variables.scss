@@ -1,0 +1,104 @@
+:root {
+
+  //grey
+  --stk-grey-50 : #f0f1f3;
+  --stk-grey-100: #d0d3d9;
+  --stk-grey-200: #b9bdc7;
+  --stk-grey-300: #989fad;
+  --stk-grey-400: #858d9d;
+  --stk-grey-500: #667085;
+  --stk-grey-600: #5d6679;
+  --stk-grey-700: #48505e;
+  --stk-grey-800: #383e49;
+  --stk-grey-900: #2b2f38;
+
+  //primary
+  --stk-primary-50 : #e8f1fd;
+  --stk-primary-100: #b6d3fa;
+  --stk-primary-200: #93bdf8;
+  --stk-primary-300: #629ff4;
+  --stk-primary-400: #448df2;
+  --stk-primary-500: #1570ef;
+  --stk-primary-600: #1366d9;
+  --stk-primary-700: #0f50aa;
+  --stk-primary-800: #0c3e83;
+  --stk-primary-900: #092f64;
+
+  //error
+  --stk-error-50 : #feeceb;
+  --stk-error-100: #fac5c1;
+  --stk-error-200: #f8a9a3;
+  --stk-error-300: #f5827a;
+  --stk-error-400: #f36960;
+  --stk-error-500: #f04438;
+  --stk-error-600: #da3e33;
+  --stk-error-700: #aa3028;
+  --stk-error-800: #84251f;
+  --stk-error-900: #651d18;
+
+  //warning
+  --stk-warning-50 : #fef4e6;
+  --stk-warning-100: #fdddb3;
+  --stk-warning-200: #fbcc8e;
+  --stk-warning-300: #fab55a;
+  --stk-warning-400: #f9a63a;
+  --stk-warning-500: #f79009;
+  --stk-warning-600: #e18308;
+  --stk-warning-700: #af6606;
+  --stk-warning-800: #884f05;
+  --stk-warning-900: #683c04;
+
+  //success
+  --stk-success-50 : #e7f8f0;
+  --stk-success-100: #b6e9d1;
+  --stk-success-200: #92deba;
+  --stk-success-300: #60cf9b;
+  --stk-success-400: #41c588;
+  --stk-success-500: #12b76a;
+  --stk-success-600: #10a760;
+  --stk-success-700: #0d824b;
+  --stk-success-800: #0a653a;
+  --stk-success-900: #084d2d;
+
+  // font size and line heights
+
+  // display small font
+  --stk-display-regular-sm : 400 30px/38px "Inter", sans-serif;
+  --stk-display-medium-sm  : 500 30px/38px "Inter", sans-serif;
+  --stk-display-semibold-sm: 600 30px/38px "Inter", sans-serif;
+  --stk-display-bold-sm    : 700 30px/38px "Inter", sans-serif;
+
+  // display extra small font
+  --stk-display-regular-xs : 400 24px/32px "Inter", sans-serif;
+  --stk-display-medium-xs  : 500 24px/32px "Inter", sans-serif;
+  --stk-display-semibold-xs: 600 24px/32px "Inter", sans-serif;
+  --stk-display-bold-xs    : 700 24px/32px "Inter", sans-serif;
+
+  // text extra large font
+  --stk-text-regular-xl : 400 20px/30px "Inter", sans-serif;
+  --stk-text-medium-xl  : 500 20px/30px "Inter", sans-serif;
+  --stk-text-semibold-xl: 600 20px/30px "Inter", sans-serif;
+  --stk-text-bold-xl    : 700 20px/30px "Inter", sans-serif;
+
+  // text large font
+  --stk-text-regular-lg : 400 18px/28px "Inter", sans-serif;
+  --stk-text-medium-lg  : 500 18px/28px "Inter", sans-serif;
+  --stk-text-semibold-lg: 600 18px/28px "Inter", sans-serif;
+  --stk-text-bold-lg    : 700 18px/28px "Inter", sans-serif;
+
+  // text medium font
+  --stk-text-regular-md : 400 16px/24px "Inter", sans-serif;
+  --stk-text-medium-md  : 500 16px/24px"Inter", sans-serif;
+  --stk-text-semibold-md: 600 16px/24px "Inter", sans-serif;
+  --stk-text-bold-md    : 700 16px/24px "Inter", sans-serif;
+
+  // text small font
+  --stk-text-regular-sm : 400 14px/20px "Inter", sans-serif;
+  --stk-text-medium-sm  : 500 14px/20px "Inter", sans-serif;
+  --stk-text-semibold-sm: 600 14px/20px "Inter", sans-serif;
+  --stk-text-bold-sm    : 700 14px/20px "Inter", sans-serif;
+
+  // main components heights
+  --stk-navbar-height: 8vh;
+
+}
